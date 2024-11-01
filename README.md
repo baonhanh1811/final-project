@@ -8,13 +8,13 @@ Class: MAS02
 Lecturer: Dr. Emmanuel Lance Christopher VI M. Plan
 
 
-| Name              | Student ID   | 
-|-------------      |--------------|
-| Phạm Tô Bảo Anh   | 22080297     | 
-| Lương Khánh Linh  | 22080322     | 
-| Bùi Ánh Mai       | 2208025      | 
-| Nguyễn Thu Phương | 2080338      | 
-| Tạ Thu Phương     | 22080339     | 
+| Student ID  | Name              | 
+|-------------|--------------     |             
+| 22080297    | Phạm Tô Bảo Anh   | 
+| 22080322    | Lương Khánh Linh  | 
+| 22080325    | Bùi Ánh Mai       | 
+| 22080328    | Nguyễn Thu Phương | 
+| 22080339    | Tạ Thu Phương     | 
 
 1. Introduction
 
