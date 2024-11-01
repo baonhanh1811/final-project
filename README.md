@@ -57,14 +57,14 @@ to a proper date format for any time-based analysis.
 + Significance: 
 + Pattern: 
 + Importance: 
-![Line Chart]()
+![Pie Chart](image/pie.jpg)
 
 - Line Chart - Monthly Profit Trend:
 + Explanation: 
 + Significance: 
 + Pattern: 
 + Importance: 
-![Pie Chart]()
+![Line Chart](image/line.jpg)
 
 - Bar chart - Total Sales by State:
 + Explanation: 
@@ -85,4 +85,4 @@ to a proper date format for any time-based analysis.
 + Significance: 
 + Pattern: 
 + Importance: 
-![Pie Chart]()
+![Boxplot Chart](image/box plot.jpg)
