@@ -76,8 +76,8 @@ to a proper date format for any time-based analysis.
 - Scatter Plot - Quantity of products sold and Profit:
 + Description: Shows the relationship between the number of products sold and the profit of each product
 + Reviews: Very high profits but have some negative profits, large quantity but not the only deciding factor
-+ Purpose: Quantity does not determine profits, develop an sensible pricing strategy
-+ Lesson:
++ Purpose: Identify key and weak products, evaluate the effectiveness of marketing campaigns
++ Lesson: Quantity does not determine profits, develop an sensible pricing strategy
 ![Scatter Plot Chart](image/scatterplot.jpg)
 
 - Boxplot - Profit distribution by category:
