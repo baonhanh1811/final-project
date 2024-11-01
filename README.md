@@ -71,18 +71,18 @@ to a proper date format for any time-based analysis.
 + Significance: 
 + Pattern: 
 + Importance: 
-![Bar Chart](image/bar2.jpg)\
+![Bar Chart](image/bar2.jpg)
 
 - Scatter Plot - Quantity of products sold and Profit:
 + Explanation: 
 + Significance: 
 + Pattern: 
 + Importance: 
-![Scatter Plot Chart](image/scatter plot.jpg)
+![Scatter Plot Chart](image/scatterplot.jpg)
 
 - Boxplot - Profit distribution by category:
 + Explanation: 
 + Significance: 
 + Pattern: 
 + Importance: 
-![Boxplot Chart](image/box plot.jpg)
+![Boxplot Chart](image/boxplot.jpg)
