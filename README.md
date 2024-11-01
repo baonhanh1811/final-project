@@ -50,7 +50,7 @@ to a proper date format for any time-based analysis.
 + Significance: 
 + Pattern: 
 + Importance: 
-![Bar Chart]()
+![Bar Chart](image/bar1.jpg)
 
 - Pie Chart - Payment mode:
 + Explanation: 
@@ -71,7 +71,7 @@ to a proper date format for any time-based analysis.
 + Significance: 
 + Pattern: 
 + Importance: 
-![Pie Chart]()\
+![Bar Chart](image/bar2.jpg)\
 
 - Scatter Plot - Quantity of products sold and Profit:
 + Explanation: 
