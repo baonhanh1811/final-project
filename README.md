@@ -84,5 +84,6 @@ to a proper date format for any time-based analysis.
 + Explanation: 
 + Significance: 
 + Pattern: 
-+ Importance: 
++ Importance:
+
 ![Boxplot Chart](image/boxplot.jpg)
