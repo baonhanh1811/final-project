@@ -78,7 +78,7 @@ to a proper date format for any time-based analysis.
 + Significance: 
 + Pattern: 
 + Importance: 
-![Pie Chart]()
+![Scatter Plot Chart](image/scatter plot.jpg)
 
 - Boxplot - Profit distribution by category:
 + Explanation: 
