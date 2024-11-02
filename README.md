@@ -88,8 +88,11 @@ to a proper date format for any time-based analysis.
 ![Boxplot Chart](image/boxplot.jpg)
 
 5. Machine Learning
-- Elbow Graph, Scatter Plot and PCA Graph
+- Elbow Graph
 + The Elbow graph illustrates value ranging from 1 to 10, with the best value is 3, because it shows the most variation at both ends.
 => Using point 3 is the best way to analyze data in all points.
-+ Pairwise Scatter Plot: shows the difference from 3 value: Amount, Quantity, Profit.
+![Elbow Graph](image/elbow.jpg)
+- Scatter Plot and PCA Graph
++ Shows the difference from 3 value: Amount, Quantity, Profit.
 + PCA graph: The clusters are clearly divided, with different colors, the color patches do not overlap, showing that the KMeans algorithm has analyzed the data well.
+- ![Scatter Plot](image/Kmeans.jpg)
