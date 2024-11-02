@@ -47,6 +47,7 @@ to a proper date format for any time-based analysis.
 - Profit: There are negative values in the "Profit" column, which may indicate losses. However, some values seem extreme (e.g., -1981), so these should be checked to determine if they are valid or errors.
 
 4. Charts
+
 Bar chart - Sub-category by Amount:
 + Description: Shows the total sales volume by sub-category, including 17 sub-categories with the highest volume level of 60,000.
 + Reviews: The sub-category with the highest sales is "Printers" with a quantity of about 60,000 while the sub-category with the lowest is "Skirt" with a quantity of only about 2,000.
