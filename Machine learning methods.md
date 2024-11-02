@@ -16,5 +16,5 @@ Scatter Plot
 ![Scatter Plot](image/Kmeans.jpg)
 
 PCA Graph
-PCA projection shows the data in 2D space. It can be seen that the KMeans algorithm has done a good job of analyzing the data because the different colored lines do not overlap.
+- PCA projection shows the data in 2D space. It can be seen that the KMeans algorithm has done a good job of analyzing the data because the different colored lines do not overlap.
 ![PCA Graph](image/pca.jpg)
