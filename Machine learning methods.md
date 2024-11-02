@@ -20,4 +20,5 @@ PCA Graph
 ![PCA Graph](image/pca.jpg)
 
 Logistic Regression
-The model predicts well for both low and high profit cases, with the Precision for both being average, indicating a balance between low and high profit. However, the recall is a bit low, suggesting that the data between these two parts may not be very specific.
+- The model predicts well for both low and high profit cases, with the Precision for both being average, indicating a balance between low and high profit. However, the recall is a bit low, suggesting that the data between these two parts may not be very specific.
+![Logistic Regression](image/logistic.jpg)
