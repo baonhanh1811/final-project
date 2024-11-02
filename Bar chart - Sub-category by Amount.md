@@ -13,3 +13,4 @@ Lessons:
 - Change weak products: It is necessary to point out and fix the reasons why products have low revenue, have not achieved the desired sales. Provide diverse strategies for change (packaging, approach, group of people ..)
 - Diversify products: Although it is advisable to focus on core products, businesses also need to diversify products to reduce risks and increase competitiveness.
 - Launch new products, create differences: Research and develop new products to meet customer needs and expand the market. Create innovation and creativity to stimulate buyers
+![Bar Chart](image/bar1.jpg)
