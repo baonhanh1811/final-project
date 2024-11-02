@@ -15,7 +15,7 @@ Purpose:
 - The chart also helps businesses have the most overview to plan their development to target the target market.
 
 Lesson:
--Market analysis: businesses need to analyze the strengths and weaknesses of the market to give an overview and exploit the market they are aiming for.
--Businesses should invest in potential markets and developed markets to optimize profits for the business. In addition, businesses also need to expand their markets to find solutions to overcome limited markets.
--Focus and develop a fixed market, then diversify and expand into other segments in the same industry.
+- Market analysis: businesses need to analyze the strengths and weaknesses of the market to give an overview and exploit the market they are aiming for.
+- Businesses should invest in potential markets and developed markets to optimize profits for the business. In addition, businesses also need to expand their markets to find solutions to overcome limited markets.
+- Focus and develop a fixed market, then diversify and expand into other segments in the same industry.
 ![Bar Chart](image/bar2.jpg)
