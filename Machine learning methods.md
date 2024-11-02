@@ -5,3 +5,4 @@ Linear Regression:
 
 - The red regression line shows the most generalized relationship between the two values, it has a positive slope, showing that the relationship between these two values ​​both increases, that is, when the Amount value increases, the Profit value also increases slightly.
 - It is very clear that the R-squared value is low, showing that this model is almost unsuitable to describe the relationship between Amount and Profit.
+![Linear Regression](image/linear.jpg)
