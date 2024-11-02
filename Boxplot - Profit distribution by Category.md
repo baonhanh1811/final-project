@@ -1,4 +1,5 @@
-Distribution: The chart shows the distribution of profits on each product category.
+Distribution: 
+- The chart shows the distribution of profits on each product category.
 
 Reviews: 
 - Can see that electronics has the highest average profit, showing strong profits, while furniture has a slightly higher average profit, bringing moderate profits, and clothing is almost zero.
