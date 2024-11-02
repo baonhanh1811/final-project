@@ -103,4 +103,4 @@ to a proper date format for any time-based analysis.
 ![Linear Regression](image/linear.jpg)
 - Logistic Regression
 + The chart shows the correct and incorrect prediction rates on the two values ​​High profit and Low profit, and also gives the results of accuracy, F1 score, thereby providing information about the model performance.
-![Logistic Regression](image/elbow.jpg)
+![Logistic Regression](image/logistic.jpg)
