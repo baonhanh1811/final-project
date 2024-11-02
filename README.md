@@ -96,5 +96,11 @@ to a proper date format for any time-based analysis.
 + Shows the difference from 3 value: Amount, Quantity, Profit.
 ![Scatter Plot](image/Kmeans.jpg)
 - PCA graph
-+ PCA graph: The clusters are clearly divided, with different colors, the color patches do not overlap, showing that the KMeans algorithm has analyzed the data well.
++ The clusters are clearly divided, with different colors, the color patches do not overlap, showing that the KMeans algorithm has analyzed the data well.
 ![PCA Graph](image/pca.jpg)
+- Linear Regression
++ Linear regression algorithm outputs a model to predict the relationship between two values ​​Amount and Profit. This graph helps predict trends from real wine including two parts: tourist spots and linear regression line.
+![Linear Regression](image/linear.jpg)
+- Logistic Regression
++ The chart shows the correct and incorrect prediction rates on the two values ​​High profit and Low profit, and also gives the results of accuracy, F1 score, thereby providing information about the model performance.
+![Logistic Regression](image/elbow.jpg)
