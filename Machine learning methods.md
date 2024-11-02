@@ -18,3 +18,6 @@ Scatter Plot
 PCA Graph
 - PCA projection shows the data in 2D space. It can be seen that the KMeans algorithm has done a good job of analyzing the data because the different colored lines do not overlap.
 ![PCA Graph](image/pca.jpg)
+
+Logistic Regression
+The model predicts well for both low and high profit cases, with the Precision for both being average, indicating a balance between low and high profit. However, the recall is a bit low, suggesting that the data between these two parts may not be very specific.
