@@ -1,1 +1,16 @@
+1.  Introduction 
+- This data includes two CSV files: Order.csv and Details.csv
+- Order.csv: This data file provides basic customer information including five columns of information respectively 
+as follows: Order ID, Order Date, Customer Name, State and City
+- Details.csv: This data set provides more detailed information because it includes seven Cute data respectively 
+as follows: Order ID, Amount, Profit, Quantity, Category, Sub-Category and Payment Mode
+- These two data files collect information of Indian people which can be from retail platforms or e-commerce platforms. 
+The information shows data about sales or orders or tracking the profits of the business
 
+2. Conclusion
+-  These two data files show the specific customer information that businesses collect through their sales.
+- From this information, you can see customer purchasing trends, best-selling products, preferred payment methods, 
+cities and states that tend to buy more, peak months that sell more than the rest, ... and many more discoveries.
+- Through that information, you can predict customer trends as well as seasonal trends in order to draw lessons 
+and businesses can come up with more suitable strategies for their sales work to promote best-selling products and 
+increase communication during peak sales times.
