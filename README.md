@@ -20,7 +20,7 @@ Lecturer: Dr. Emmanuel Lance Christopher VI M. Plan
 This data includes two CSV files: Order.csv and Details.csv
 - Order.csv: This data file provides basic customer information including five columns of information respectively as follows: Order ID, Order Date, Customer Name, State and City
 - Details.csv: This data set provides more detailed information because it includes seven Cute data respectively as follows: Order ID, Amount, Profit, Quantity, Category, Sub-Category and Payment Mode
-These two data files collect information of Indian people which can be from retail platforms or e-commerce platforms. The information shows data about sales or orders or tracking the profits of the business
+- These two data files collect information of Indian people which can be from retail platforms or e-commerce platforms. The information shows data about sales or orders or tracking the profits of the business
 2. Detailed Information
    
 - Orders.csv:
