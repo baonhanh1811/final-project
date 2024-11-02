@@ -8,13 +8,39 @@ Class: MAS02
 Lecturer: Dr. Emmanuel Lance Christopher VI M. Plan
 
 
-| Student ID  | Name              | Task done      | Remark by Leader | Student evaluation |
-|-------------|--------------     | -------------  | ---------------- | ------------------ |
-| 22080297    | Phạm Tô Bảo Anh   |                |                  |                    |
-| 22080322    | Lương Khánh Linh  |                |                  |                    |
-| 22080325    | Bùi Ánh Mai       |                |                  |                    |
-| 22080338    | Nguyễn Thu Phương |                |                  |                    |
-| 22080339    | Tạ Thu Phương     |                |                  |                    |
+# student_contributions.py
+
+
+students = [
+    {
+        "id": "22080297",
+        "name": "Phạm Tô Bảo Anh",
+        "task_done": "Conclusion, Machine Learning, Comprehensive study of all content"
+    },
+    {
+        "id": "22080322",
+        "name": "Lương Khánh Linh",
+        "task_done": "Data research, 1 bar chart, 1 scatter plot"
+    },
+    {
+        "id": "22080325",
+        "name": "Bùi Ánh Mai",
+        "task_done": "Data research, boxplot, interesting findings"
+    },
+    {
+        "id": "22080338",
+        "name": "Nguyễn Thu Phương",
+        "task_done": "Data research, line chart, pie chart"
+    },
+    {
+        "id": "22080339",
+        "name": "Tạ Thu Phương",
+        "task_done": "Data research, introduction, 1 bar chart, 1 scatter plot"
+    },
+]
+for student in students:
+    print(f"Student ID: {student['id']}, Name: {student['name']}, Task Done: {student['task_done']}")
+
 
 1. Introduction
 This data includes two CSV files: Order.csv and Details.csv
