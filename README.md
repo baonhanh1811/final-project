@@ -11,7 +11,7 @@ Lecturer: Dr. Emmanuel Lance Christopher VI M. Plan
 |------------|--------------------|---------------------------------------------------------|-------------------------------------|--------------------|
 | 22080297   | Phạm Tô Bảo Anh   | Conclusion, Machine Learning, Comprehensive study of all content | Complete well, responsible, on time | 100%               |
 | 22080322   | Lương Khánh Linh  | Data research, 1 bar chart, 1 scatter plot              | Complete well, responsible, on time | 100%               |
-| 22080325   | Bùi Ánh Mai      | Data research, boxplot, interesting findings            | Complete well, responsible, on time | 1%               |
+| 22080325   | Bùi Ánh Mai      | Data research, boxplot, interesting findings            | Complete well, responsible, on time | 100%               |
 | 22080338   | Nguyễn Thu Phương | Data research, line chart, pie chart                    | Complete well, responsible, on time | 100%               |
 | 22080339   | Tạ Thu Phương     | Data research, introduction, 1 bar chart, 1 scatter plot | Complete well, responsible, on time | 100%               |
 
