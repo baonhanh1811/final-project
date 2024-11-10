@@ -1,10 +1,17 @@
 Linear Regression: 
--  Linear regression algorithm gives the result of a model used to predict the relationship between two values ​​Amount and Profit. This chart helps predict the trend from real data including two parts: data points and linear regression line.
+- Looking at the chart, we can see that the chart provides us with information to predict the value in Amount and some indicators such as Mean Squared Error (MSE), R-squared (R²).
 
-- The blue data points show the real relationship between two values ​​Amount and Profit. It can be seen that the dispersion between these points is very large, they do not lie along the red regression line, from which the variation of these two values ​​can be seen.
+- However, looking at the chart, we can also see that this algorithm does not perform this task well because the Blue points do not follow the red line but are scattered around.
 
-- The red regression line shows the most generalized relationship between the two values, it has a positive slope, showing that the relationship between these two values ​​both increases, that is, when the Amount value increases, the Profit value also increases slightly.
-- It is very clear that the R-squared value is low, showing that this model is almost unsuitable to describe the relationship between Amount and Profit.
+- This is the line representing the points between the predicted value and the actual value that must coincide with each other and if a Linear model is good, these data points need to be distributed around this red line. However, it can be seen in the chart that the data points are quite scattered, some data points are outside the red water area, reaching close to the value of 4000, showing that the prediction model is not accurate.
+
+- For small actual values, specifically below 500, the predictive model is generally more accurate than for large values, above 1000.
+
+- The MSE value is 136195.13, which is the average squared error between the actual value and the predicted value. This value is quite high, indicating that the error between the prediction and the actual is too large, especially at large values. This shows that the predictive model is not good.
+
+- The R² value is 0.454 to measure the proportion of data variation that the model can explain. The value of 0.454 is quite low, indicating that the model only explains 45.4% of the variation in the data. This shows that the model is not strong enough to capture the trend of the data, leading to large deviations.
+
+- Through the chart and the indicators that the chart brings, it can be seen that this model is not good at predicting the actual revenue ratio compared to the predicted ratio. Businesses need to collect more data on important characteristics to be able to create a better chart in predicting. You can refer to collecting more data such as the number of times customers return, revenue compared to cost, total quantity of products, selling price and cost to produce the product, ... to be able to create a better chart in predicting.
 ![Linear Regression](image/linear1.jpg)
 
 Elbow Graph
