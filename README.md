@@ -68,44 +68,38 @@ to a proper date format for any time-based analysis.
 
 Bar chart - Sub-category by Amount:
 + Description: Shows the total sales volume by sub-category, including 17 sub-categories with the highest volume level of 60,000.
-+ Reviews: The sub-category with the highest sales is "Printers" with a quantity of about 60,000 while the sub-category with the lowest is "Skirt" with a quantity of only about 2,000.
-+ Purpose: Compare and analyze the effectiveness and sales performance between product sub-categories.
-+ Lesson: Focus on key products, change weak products, diversify products, create differences.
++ Reviews: The chart has 15 main categories and the most important dead end sales are printers with sales of nearly 60,000 showing a large difference between the highest category which is printers and shirts with only about 2000 that is what we see most clearly in the chart seeing the difference between the highest and lowest product sales performance and which products are popular and which products are not popular. The reason why these products are higher than other products is because the demand for education in India is currently increasing because India is a populous country with a developed education system and the government also invests and wants to encourage the use of technology in work, study and life, so the items in the electronic warehouse are always the best-selling and highest-achieving items. However, it can be seen in the chart that the second highest column is Saree. This is a traditional costume of India and because in India they prefer to wear these traditional clothes more than normal clothes, the demand for buying these traditional clothes is always high. Next are the products that are almost equally low, which are clothing products and accessories. As mentioned in India, they prefer to wear traditional clothes like Saree. So the revenue from clothing is almost zero and accessories in their country are also popularly handmade, so the demand is also low.
 ![Bar Chart](image/bar1.jpg)
 
 Pie Chart - Payment mode:
 + Description: Provides an overview of the sales structure according to different payment methods, helping businesses make strategic decisions.
-+ Reviews: Cash on delivery (COD) accounts for the highest percentage, debit cards account for the lowest percentage of all payment methods.
-+ Purpose: Visualize the percentage of each different payment method chosen by customers when making a purchase.
-+ Lesson: Understand customer behavior, diversify payment methods and focus on key methods.
++ Reviews: COD is the highest method with more than 35%, because modern society prioritizes online shopping, so the percentage of COD usage is increasing, wanting to trust and see the product before paying. The two methods of using cards are credit cards and debit cards, which require too much personal information when paying, causing time loss and fear of information disclosure, so the percentage of usage is not too large. UPI method - unified payment system, because this data is taken from India and this method is very popular in India, so it will be suitable for many types of goods and products. Finally, EMI method - installment payment, suitable for some items in categories such as furniture or electronics, because of the high price, suitable for people who do not have enough money, and they use installment payment.
 ![Pie Chart](image/pie.jpg)
 
 Line Chart - Monthly Profit Trend:
 + Description: Provides an overview of the monthly profit development of the enterprise.
-+ Reviews: Profits reached the highest point around November 2018, and dropped to the lowest level around May 2018.
-+ Purpose: Illustrate the fluctuations in profits over time, support analysis and decision making.
-+ Lesson: Understand profit fluctuations, recognize risks plan and forecast.
++ Reviews: From January to March, the first quarter of the year, the demand for goods increases because as mentioned above, this data is taken from people and customers in India, from January to March in India there are very big festivals such as the Uttarayan International Kite Festival in Ahmedabad, the Ugadi Festival in Hyderabad in February, so the demand for goods increases, reaching nearly 10,000. In the low months such as March to May, June to July and August to September, there are not many special occasions or any events, so the demand of buyers also decreases. However, in July and August, the chart may increase a little because in these two months and summer, the demand for goods increases due to holidays or travel, and there are also some big events that stand out in these months such as the Indian Monsoon Festival in July-August. It can be seen that in the last months of the year in India, the demand for purchasing goods increases to a peak of more than 10,000 because there are many festivals and outstanding events of the year in these months such as Diwali Festival of Lights, Pushkar Camel Fair Festival.
 ![Line Chart](image/line.jpg)
 
 Bar chart - Total Sales by State:
 + Description: Evaluate business performance and make strategic decisions.
-+ Reviews: The state of "Maharashtra" has the highest revenue, incontrast "Mizoram" has the lowest revenue, shows a large difference in revenue between states.
-+ Purpose: Compare revenue, evaluate and develop business performance.
-+ Lesson: Focus and expand key markets, improve business strategy.
++ Reviews: The state of "Maharashtra" has the highest sales revenue almost surpassing the other states. Next is the state of Madhya Pradesh, Uttar Pradesh. It can be seen that the large difference in the revenue of the highest and lowest state is about 34 times. States like Delhi, Rajasthan and Gujarat have relatively even revenue, are found to be stable and are potential markets in the future. The remaining states have revenue almost lower with production below 20,000 and the lowest is the state of Mizoram showing a worrying sign about the level of development of these states due to many impacts on population density, spending level and infrastructure.
 ![Bar Chart](image/bar2.jpg)
 
 Scatter Plot - Quantity of products sold and Profit:
 + Description: Shows the relationship between the number of products sold and the profit of each product.
-+ Reviews: Very high profits but have some negative profits, large quantity but not the only deciding factor.
-+ Purpose: Identify key and weak products, evaluate the effectiveness of marketing campaigns.
-+ Lesson: Quantity does not determine profits, develop an sensible pricing strategy.
++ Reviews: Can see the results of the dependent variable based on the milestones of the variable, and we have applied it and 2 variables have a relationship that affects each other, which is “total purchase quantity and profit”. In the chart, we see both negative and positive profits, there are points that show the highest profit that can reach more than 1500, however, there are some points that are the opposite, the total purchase quantity is not too low, however, there are many data points that are randomly scattered, which shows that many other factors can affect the profit. that is, the profit does not increase or decrease with the number of sales. This may be due to many other factors that affect the profit, such as production costs, selling prices, and marketing costs.
+
 ![Scatter Plot Chart](image/scatterplot.jpg)
 
 Boxplot - Profit distribution by category:
 + Description: Shows the distribution of profits across three product categories: Furniture, Electronics, and Clothing.
-+ Reviews: The median profit of electronics is the highest point, this number in funiture is higher than zero, in clothing is nearly zero.
-+ Purpose: Reduce large losses and optimize profit, cost control, finding a new marketing strategy, discontinuing low-performing products.
-+ Lesson: Focus resources on electronics, cost and marketing optimization.
++ Reviews: The Profit column shows a wide range of values: from -2000 to 2000
+Furniture: the average profit is just slightly above 0 but has high volatility, indicating inconsistent profits with some large profits and losses. The range is too wide, with high profits concentrated from 400 to over 1500, but there are also many negative profits, from -400 to over -500, with some products reaching -2000. From there, we can see the wide range in the same furniture warehouse.
+
+Electronic: the average profit is the highest, this shows the strong performance that makes electronics a valuable field, less differentiation between products, from about -1000 to more than 1500. It can be seen that the profit from Electronic is more stable than funiture, the most sold product, the highest profit is also in the electronic (printer) warehouse.
+
+Clothing: clothing has a low profit margin of almost 0, sells little, but the products are not too differentiated compared to the other 2 warehouses.
 ![Boxplot Chart](image/boxplot.jpg)
 
 6. Machine Learning
