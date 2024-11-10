@@ -8,6 +8,7 @@ Reviews:
 - Because the states of Maharashtra, Madhya Pradesh, and Uttar Pradesh are large states of India, they have large economies, high population density and GDP, so consumption levels are good.
 - In addition, Northern India, which is Delhi, Rajasthan and Gujanat, is also gradually developing with a stable level of purchasing and may be a potential market in the near future.
 - On the contrary, the remaining states still have many restrictions, especially the state of Mizoram The population is low due to the need for economic development and social and environmental costs.
+- The state of "Maharashtra" has the highest sales revenue almost surpassing the other states. Next is the state of Madhya Pradesh, Uttar Pradesh. It can be seen that the large difference in the revenue of the highest and lowest state is about 34 times. States like Delhi, Rajasthan and Gujarat have relatively even revenue, are found to be stable and are potential markets in the future. The remaining states have revenue almost lower with production below 20,000 and the lowest is the state of Mizoram showing a worrying sign about the level of development of these states due to many impacts on population density, spending level and infrastructure.
   
 Purpose: 
 - The chart helps us to most clearly compare between markets, which markets have potential, which markets are good, and which markets are still available but limited.
