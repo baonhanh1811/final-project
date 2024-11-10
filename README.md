@@ -17,9 +17,11 @@ Lecturer: Dr. Emmanuel Lance Christopher VI M. Plan
 
 1. Introduction
 This data includes two CSV files: Order.csv and Details.csv
-- Order.csv: This data file provides basic customer information including five columns of information respectively as follows: Order ID, Order Date, Customer Name, State and City
-- Details.csv: This data set provides more detailed information because it includes seven Cute data respectively as follows: Order ID, Amount, Profit, Quantity, Category, Sub-Category and Payment Mode
-- These two data files collect information of Indian people which can be from retail platforms or e-commerce platforms. The information shows data about sales or orders or tracking the profits of the business
+
+- In the Order.csv file, this data file provides basic customer information, including the order number when the customer placed the order, the date of order, the customer's full name, the state and city where they live. This data file takes information from the country of India, so it can be seen that the names, states and cities are all traditional, famous places in India and the customer's full names are also Indian names, they are people of origin, born and raised in India since childhood.
+
+- In the Details.csv file, this file provides more specific data than the Order.CSV file, they still keep the order number column but have added many columns, including six columns with six different values. The Amount value provides the total sales of that product, the Profit column shows the profit earned from that product, the Quantity column shows how many products are sold. Next is the Category column, this column describes the main categories, including three categories: electronics, furniture and clothing. The next is the Sub-category, including sub-categories, specifically 14 small sub-categories equivalent to the large sub-categories in the Category. Finally, the PaymentMode column describes in detail the payment methods that customers use when purchasing and ordering, this column includes five methods: COD, Credit Card, Debit Card, UPI and EMI
+
 2. Detailed Information
    
 - Orders.csv:
