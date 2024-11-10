@@ -107,10 +107,10 @@ Elbow Graph
 => Using point 3 is the best way to analyze data in all points.
 ![Elbow Graph](image/elbow.jpg)
 + K Means
-
+![K Means](image/kmean.jpg)
 
 Linear Regression
 + Linear regression algorithm outputs a model to predict the relationship between two values ​​Amount and Profit. This graph helps predict trends from real wine including two parts: tourist spots and linear regression line.
-![Linear Regression](image/linear.jpg)
+![Linear Regression](image/linear1.jpg)
 
 
