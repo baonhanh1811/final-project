@@ -16,6 +16,7 @@ Lecturer: Dr. Emmanuel Lance Christopher VI M. Plan
 | 22080339   | Tạ Thu Phương     | Data research, introduction, 1 bar chart, 1 scatter plot | Complete well, responsible, on time | 100%               |
 
 1. Introduction
+
 This data includes two CSV files: Order.csv and Details.csv
 
 - In the Order.csv file, this data file provides basic customer information, including the order number when the customer placed the order, the date of order, the customer's full name, the state and city where they live. This data file takes information from the country of India, so it can be seen that the names, states and cities are all traditional, famous places in India and the customer's full names are also Indian names, they are people of origin, born and raised in India since childhood.
