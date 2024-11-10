@@ -49,6 +49,7 @@ to a proper date format for any time-based analysis.
 - Profit: There are negative values in the "Profit" column, which may indicate losses. However, some values seem extreme (e.g., -1981), so these should be checked to determine if they are valid or errors.
 
 4. Interesting findings
+
 *Geographical location
 - There are many orders from far away places like Nagaland (Kohima), Jammu and Kashmir, Kerala (Thiruvananthapuram). Showing the wide distribution capacity of the business
 - Chandigarh appears in both Punjab and Haryana (being the common administrative center of the two states)
@@ -59,6 +60,7 @@ to a proper date format for any time-based analysis.
 - Customer name diversity: The customer list includes a variety of names, reflecting the cultural and linguistic diversity of India.
 - Repeat orders: There are some customer names that appear multiple times (e.g. Madhav, Shrichand), indicating that there are regular customers or possibly dealers.
 - Customer names reflect the cultural and religious diversity of India (e.g. Hindu, Muslim, Sikh). There are both traditional and modern names, indicating a diverse customer base in terms of age and culture.
+
 
 *Profit
 - Electronics has the highest profit margin of all categories, reflecting its dominance in society and high demand. There is a huge gap from high losses (-916) to high profits (1864), which can happen due to excessive discounting, or during periods of high demand, production costs are higher than revenue.
