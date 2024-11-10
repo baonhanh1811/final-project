@@ -107,7 +107,7 @@ Elbow Graph
 => Using point 3 is the best way to analyze data in all points.
 ![Elbow Graph](image/elbow.jpg)
 
-+ K Means
+K Means
 ![K Means](image/kmean.jpg)
 
 Linear Regression
