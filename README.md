@@ -46,7 +46,23 @@ to a proper date format for any time-based analysis.
 
 - Profit: There are negative values in the "Profit" column, which may indicate losses. However, some values seem extreme (e.g., -1981), so these should be checked to determine if they are valid or errors.
 
-4. Charts
+4. Interesting findings
+1. Geographical location
+- There are many orders from far away places like Nagaland (Kohima), Jammu and Kashmir, Kerala (Thiruvananthapuram). Showing the wide distribution capacity of the business
+- Chandigarh appears in both Punjab and Haryana (being the common administrative center of the two states)
+- Some big cities like Bangalore, Chennai have few orders.
+- Hyderabad appears as a city of Andhra Pradesh
+=> Wide geographical distribution, orders come from different states in India, from Gujarat in the west to Nagaland in the northeast, and from Jammu and Kashmir in the north to Kerala in the south. This shows that the company has a wide range of operations.
+- Diversity of cities: Orders come not only from big cities like Mumbai, Delhi, Bangalore which are the main sources of revenue for the company but also from smaller cities like Mathura, Prayagraj, Kohima. This shows that the company has the ability to serve both urban and rural areas.
+- Customer name diversity: The customer list includes a variety of names, reflecting the cultural and linguistic diversity of India.
+- Repeat orders: There are some customer names that appear multiple times (e.g. Madhav, Shrichand), indicating that there are regular customers or possibly dealers.
+- Customer names reflect the cultural and religious diversity of India (e.g. Hindu, Muslim, Sikh). There are both traditional and modern names, indicating a diverse customer base in terms of age and culture.
+
+2. Profit
+- Electronics has the highest profit margin of all categories, reflecting its dominance in society and high demand. There is a huge gap from high losses (-916) to high profits (1864), which can happen due to excessive discounting, or during periods of high demand, production costs are higher than revenue.
+- Many products in the Clothing category have negative profit margins, especially low-value items such as Handkerchiefs
+
+5. Charts
 
 Bar chart - Sub-category by Amount:
 + Description: Shows the total sales volume by sub-category, including 17 sub-categories with the highest volume level of 60,000.
@@ -90,25 +106,17 @@ Boxplot - Profit distribution by category:
 + Lesson: Focus resources on electronics, cost and marketing optimization.
 ![Boxplot Chart](image/boxplot.jpg)
 
-5. Machine Learning
+6. Machine Learning
 
 Elbow Graph
 + The Elbow graph illustrates value ranging from 1 to 10, with the best value is 3, because it shows the most variation at both ends.
 => Using point 3 is the best way to analyze data in all points.
 ![Elbow Graph](image/elbow.jpg)
++ K Means
 
-Scatter Plot 
-+ Shows the difference from 3 value: Amount, Quantity, Profit.
-![Scatter Plot](image/Kmeans.jpg)
-
-PCA graph
-+ The clusters are clearly divided, with different colors, the color patches do not overlap, showing that the KMeans algorithm has analyzed the data well.
-![PCA Graph](image/pca.jpg)
 
 Linear Regression
 + Linear regression algorithm outputs a model to predict the relationship between two values ​​Amount and Profit. This graph helps predict trends from real wine including two parts: tourist spots and linear regression line.
 ![Linear Regression](image/linear.jpg)
 
-Logistic Regression
-+ The chart shows the correct and incorrect prediction rates on the two values ​​High profit and Low profit, and also gives the results of accuracy, F1 score, thereby providing information about the model performance.
-![Logistic Regression](image/logistic.jpg)
+
