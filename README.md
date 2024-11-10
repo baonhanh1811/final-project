@@ -96,9 +96,7 @@ Boxplot - Profit distribution by category:
 + Description: Shows the distribution of profits across three product categories: Furniture, Electronics, and Clothing.
 + Reviews: The Profit column shows a wide range of values: from -2000 to 2000
 Furniture: the average profit is just slightly above 0 but has high volatility, indicating inconsistent profits with some large profits and losses. The range is too wide, with high profits concentrated from 400 to over 1500, but there are also many negative profits, from -400 to over -500, with some products reaching -2000. From there, we can see the wide range in the same furniture warehouse.
-
 Electronic: the average profit is the highest, this shows the strong performance that makes electronics a valuable field, less differentiation between products, from about -1000 to more than 1500. It can be seen that the profit from Electronic is more stable than funiture, the most sold product, the highest profit is also in the electronic (printer) warehouse.
-
 Clothing: clothing has a low profit margin of almost 0, sells little, but the products are not too differentiated compared to the other 2 warehouses.
 ![Boxplot Chart](image/boxplot.jpg)
 
