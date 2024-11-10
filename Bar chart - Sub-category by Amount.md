@@ -1,6 +1,9 @@
 Discription: 
 - The chart has 15 product categories but the product category with the highest sales is "Printers" with about 60,000 while the lowest category is "Skirt" with only about 2,000
 
+Reviews: 
+- Can see the results of the dependent variable based on the milestones of the variable, and we have applied it and 2 variables have a relationship that affects each other, which is “total purchase quantity and profit”. In the chart, we see both negative and positive profits, there are points that show the highest profit that can reach more than 1500, however, there are some points that are the opposite, the total purchase quantity is not too low, however, there are many data points that are randomly scattered, which shows that many other factors can affect the profit. that is, the profit does not increase or decrease with the number of sales. This may be due to many other factors that affect the profit, such as production costs, selling prices, and marketing costs.
+
 Purpose for business:
 - The purpose of the chart helps businesses to see the comparison and analysis of the effectiveness and sales performance between product categories
 - Provide an overview of the business's revenue
