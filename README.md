@@ -122,7 +122,19 @@ K Means
 ![K Means](image/kmean.jpg)
 
 Linear Regression
-+ Linear regression algorithm outputs a model to predict the relationship between two values ​​Amount and Profit. This graph helps predict trends from real wine including two parts: tourist spots and linear regression line.
++ Looking at the chart, we can see that the chart provides us with information to predict the value in Amount and some indicators such as Mean Squared Error (MSE), R-squared (R²).
+
++ However, looking at the chart, we can also see that this algorithm does not perform this task well because the Blue points do not follow the red line but are scattered around.
+
++ This is the line representing the points between the predicted value and the actual value that must coincide with each other and if a Linear model is good, these data points need to be distributed around this red line. However, it can be seen in the chart that the data points are quite scattered, some data points are outside the red water area, reaching close to the value of 4000, showing that the prediction model is not accurate.
+
++ For small actual values, specifically below 500, the predictive model is generally more accurate than for large values, above 1000.
+
++ The MSE value is 136195.13, which is the average squared error between the actual value and the predicted value. This value is quite high, indicating that the error between the prediction and the actual is too large, especially at large values. This shows that the predictive model is not good.
+
++ The R² value is 0.454 to measure the proportion of data variation that the model can explain. The value of 0.454 is quite low, indicating that the model only explains 45.4% of the variation in the data. This shows that the model is not strong enough to capture the trend of the data, leading to large deviations.
+
++ Through the chart and the indicators that the chart brings, it can be seen that this model is not good at predicting the actual revenue ratio compared to the predicted ratio. Businesses need to collect more data on important characteristics to be able to create a better chart in predicting. You can refer to collecting more data such as the number of times customers return, revenue compared to cost, total quantity of products, selling price and cost to produce the product, ... to be able to create a better chart in predicting.
 ![Linear Regression](image/linear1.jpg)
 
 
