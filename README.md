@@ -106,6 +106,7 @@ Elbow Graph
 + The Elbow graph illustrates value ranging from 1 to 10, with the best value is 3, because it shows the most variation at both ends.
 => Using point 3 is the best way to analyze data in all points.
 ![Elbow Graph](image/elbow.jpg)
+
 + K Means
 ![K Means](image/kmean.jpg)
 
