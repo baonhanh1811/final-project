@@ -140,4 +140,19 @@ Linear Regression
 + Through the chart and the indicators that the chart brings, it can be seen that this model is not good at predicting the actual revenue ratio compared to the predicted ratio. Businesses need to collect more data on important characteristics to be able to create a better chart in predicting. You can refer to collecting more data such as the number of times customers return, revenue compared to cost, total quantity of products, selling price and cost to produce the product, ... to be able to create a better chart in predicting.
 ![Linear Regression](image/linear1.jpg)
 
+7. Conclusion
 
+
+In conclusion, we can see that the two data files have provided basic to specific information about customers and all information about order date, quantity, and revenue.
+
+
+There are many interesting findings discovered from this data file from negative revenue to findings about diverse cities and states as well as diverse customer names in addition to a few repeat orders.
+
+
+For the charts, our team has analyzed carefully including filtering the necessary and important information required for analysis and put into the charts through which we can see the purchasing habits as well as the products that bring in high revenue, the states and cities that bring in high revenue, as well as which products have not achieved high revenue and profit or where there is low demand for purchases. From there, it can help businesses define the problem so that they can fix it and improve it, and at the same time collect more important data to be able to come up with a reasonable strategy to change the product or improve the product to bring better revenue to their business.
+
+
+For the part of using algorithms for analysis, we used two algorithms KMeans and Linear. The KMeans algorithm has done a good job of analyzing, specifically predicting and segmenting customers by purchase quantity and total product value, thereby helping businesses better understand their customer base and come up with reasonable strategies for each different customer base. The Linear algorithm has not done a good job of analyzing the trend of the Amount value, however, we have given advice to businesses by collecting more important data to be able to have a better chart in future judgments.
+
+
+Concluding from the two data files we developed charts and algorithms and dug deeper and deeper to help businesses come up with better strategies for their businesses.
