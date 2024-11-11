@@ -24,15 +24,17 @@ This data includes two CSV files: Order.csv and Details.csv
 - In the Details.csv file, this file provides more specific data than the Order.CSV file, they still keep the order number column but have added many columns, including six columns with six different values. The Amount value provides the total sales of that product, the Profit column shows the profit earned from that product, the Quantity column shows how many products are sold. Next is the Category column, this column describes the main categories, including three categories: electronics, furniture and clothing. The next is the Sub-category, including sub-categories, specifically 14 small sub-categories equivalent to the large sub-categories in the Category. Finally, the PaymentMode column describes in detail the payment methods that customers use when purchasing and ordering, this column includes five methods: COD, Credit Card, Debit Card, UPI and EMI
 
 2. Detailed Information
-   
-- Orders.csv:
+
+Orders.csv:
+
 + Order ID: Identifier for each order
 + Order Date: Specific order date
 + Customer Name: Full name of customers who placed the order
 + State: State where the customer resides
 + City: City where the customer resides
   
-- Details.csv:
+Details.csv:
+
 + Order ID: Code associated with Order csv file
 + Amount: Total order value
 + Profit: Profit earned from the order
